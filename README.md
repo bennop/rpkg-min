@@ -1,3 +1,6 @@
+<!-- badges: start -->
+[![Travis build status](https://travis-ci.com/bennop/rpkg-min.svg?branch=master)](https://travis-ci.com/bennop/rpkg-min)
+<!-- badges: end -->
 # The Amazing rpkgMin
 
 ---
